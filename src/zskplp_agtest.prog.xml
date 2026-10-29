@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZSKPLP_AGTEST</NAME>
+    <SUBC>1</SUBC>
+    <RLOAD>K</RLOAD>
+    <FIXPT>X</FIXPT>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <TPOOL>
+    <item>
+     <ID>R</ID>
+     <ENTRY>abapGit 시험 프로그램</ENTRY>
+     <LENGTH>15</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>한글 텍스트 심볼</ENTRY>
+     <LENGTH>9</LENGTH>
+    </item>
+   </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>E</LANGUAGE>
+     <TEXTPOOL>
+     <item>
+      <ID>R</ID>
+      <ENTRY>abapGit test program</ENTRY>
+      <LENGTH>20</LENGTH>
+     </item>
+     <item>
+      <ID>I</ID>
+      <KEY>001</KEY>
+      <ENTRY>English text symbol</ENTRY>
+      <LENGTH>19</LENGTH>
+     </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
